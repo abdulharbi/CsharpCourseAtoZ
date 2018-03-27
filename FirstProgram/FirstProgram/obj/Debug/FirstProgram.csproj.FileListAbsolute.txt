@@ -1,0 +1,7 @@
+D:\Project_C#\AtoZ\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\Project_C#\AtoZ\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+D:\Project_C#\AtoZ\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\Project_C#\AtoZ\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+D:\Project_C#\AtoZ\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+D:\Project_C#\AtoZ\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+D:\Project_C#\AtoZ\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
